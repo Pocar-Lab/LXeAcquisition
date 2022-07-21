@@ -1,0 +1,32 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>12.0.1f5</Version>
+<Array>
+<Name>Strings []</Name>
+<Dimsize>6</Dimsize>
+<String>
+<Name></Name>
+<Val>Reed Cohen</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Andrea Pocar</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Thomas Pinto Franco</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Wesley Gillis</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Ed van Bruggen</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Hannah Peltz Smalley</Val>
+</String>
+</Array>
+</LVData>
