@@ -88,6 +88,7 @@
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="UserAccessLog.vi" Type="VI" URL="../SubVIs/UserAccessLog.vi"/>
 			<Item Name="LogInDialog.vi" Type="VI" URL="../SubVIs/LogInDialog.vi"/>
+			<Item Name="LogBinaryArray.vi" Type="VI" URL="../SubVIs/LogBinaryArray.vi"/>
 		</Item>
 		<Item Name="Archive" Type="Folder">
 			<Item Name="SlowControl.vi" Type="VI" URL="../Archive/SlowControl.vi"/>
