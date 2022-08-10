@@ -71,6 +71,7 @@
 				<Item Name="ConfigureWaveforms.vi" Type="VI" URL="../SlowCtrl/SubVIs/ConfigureWaveforms.vi"/>
 				<Item Name="RTD_volts-to-temp-v2-RTD-830.vi" Type="VI" URL="../SlowCtrl/SubVIs/RTD_volts-to-temp-v2-RTD-830.vi"/>
 				<Item Name="RTD_volts-to-temp-v2-SA-1-RTD.vi" Type="VI" URL="../SlowCtrl/SubVIs/RTD_volts-to-temp-v2-SA-1-RTD.vi"/>
+				<Item Name="SaveWaveforms.vi" Type="VI" URL="../SlowCtrl/SubVIs/SaveWaveforms.vi"/>
 			</Item>
 			<Item Name="SlowCtrl.vi" Type="VI" URL="../SlowCtrl/SlowCtrl.vi"/>
 		</Item>
