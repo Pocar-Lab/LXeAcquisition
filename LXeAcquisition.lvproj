@@ -72,6 +72,7 @@
 				<Item Name="RTD_volts-to-temp-v2-RTD-830.vi" Type="VI" URL="../SlowCtrl/SubVIs/RTD_volts-to-temp-v2-RTD-830.vi"/>
 				<Item Name="RTD_volts-to-temp-v2-SA-1-RTD.vi" Type="VI" URL="../SlowCtrl/SubVIs/RTD_volts-to-temp-v2-SA-1-RTD.vi"/>
 				<Item Name="SaveWaveforms.vi" Type="VI" URL="../SlowCtrl/SubVIs/SaveWaveforms.vi"/>
+				<Item Name="TempStabilitySettings.vi" Type="VI" URL="../SlowCtrl/SubVIs/TempStabilitySettings.vi"/>
 			</Item>
 			<Item Name="SlowCtrl.vi" Type="VI" URL="../SlowCtrl/SlowCtrl.vi"/>
 		</Item>
@@ -90,6 +91,7 @@
 			<Item Name="UserAccessLog.vi" Type="VI" URL="../SubVIs/UserAccessLog.vi"/>
 			<Item Name="LogInDialog.vi" Type="VI" URL="../SubVIs/LogInDialog.vi"/>
 			<Item Name="LogBinaryArray.vi" Type="VI" URL="../SubVIs/LogBinaryArray.vi"/>
+			<Item Name="GitHash.vi" Type="VI" URL="../SubVIs/GitHash.vi"/>
 		</Item>
 		<Item Name="Archive" Type="Folder">
 			<Item Name="SlowControl.vi" Type="VI" URL="../Archive/SlowControl.vi"/>
@@ -110,13 +112,13 @@
 			</Item>
 			<Item Name="Paths" Type="Folder">
 				<Item Name="UsersPath.ctl" Type="VI" URL="../TypeDefs/Paths/UsersPath.ctl"/>
+				<Item Name="ProjectPath.ctl" Type="VI" URL="../TypeDefs/Paths/ProjectPath.ctl"/>
 			</Item>
 			<Item Name="DataTypes" Type="Folder">
 				<Item Name="SystemStatus.ctl" Type="VI" URL="../TypeDefs/DataTypes/SystemStatus.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="DragAndDropTest.vi" Type="VI" URL="/D/Xe/DAQSoftware/DragAndDropTest.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="ztscopeM Acquisition.vi" Type="VI" URL="/&lt;instrlib&gt;/ztscopem/ztscopeM.llb/ztscopeM Acquisition.vi"/>
@@ -215,6 +217,7 @@
 				<Item Name="H5S.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/space/H5S.lvlib"/>
 				<Item Name="H5T.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/type/H5T.lvlib"/>
 				<Item Name="H5D.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/dataset/H5D.lvlib"/>
+				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
 				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
 				<Item Name="compatFileDialog.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatFileDialog.vi"/>
@@ -227,6 +230,7 @@
 				<Item Name="FindFirstTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindFirstTag.vi"/>
 				<Item Name="ParseXMLFragments.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/ParseXMLFragments.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="ex_getNextGroupTDMS.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_TDMS/ex_getNextGroupTDMS.vi"/>
 				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 				<Item Name="ex_ExpandPathIfRelative.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ExFile.llb/ex_ExpandPathIfRelative.vi"/>
