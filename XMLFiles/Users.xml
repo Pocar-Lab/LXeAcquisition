@@ -3,7 +3,7 @@
 <Version>12.0.1f5</Version>
 <Array>
 <Name>Strings []</Name>
-<Dimsize>6</Dimsize>
+<Dimsize>7</Dimsize>
 <String>
 <Name></Name>
 <Val>Reed Cohen</Val>
@@ -27,6 +27,10 @@
 <String>
 <Name></Name>
 <Val>Hannah Peltz Smalley</Val>
+</String>
+<String>
+<Name></Name>
+<Val>Seth Thibado</Val>
 </String>
 </Array>
 </LVData>
