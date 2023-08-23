@@ -6,6 +6,10 @@
 <Dimsize>7</Dimsize>
 <String>
 <Name></Name>
+<Val>Ed van Bruggen</Val>
+</String>
+<String>
+<Name></Name>
 <Val>Reed Cohen</Val>
 </String>
 <String>
@@ -19,10 +23,6 @@
 <String>
 <Name></Name>
 <Val>Wesley Gillis</Val>
-</String>
-<String>
-<Name></Name>
-<Val>Ed van Bruggen</Val>
 </String>
 <String>
 <Name></Name>
