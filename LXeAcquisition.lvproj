@@ -424,6 +424,9 @@
 				<Item Name="LJUD_GoOne.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LJUD Software/LabJackUD DLL Functions/LJUD_GoOne.vi"/>
 				<Item Name="LJUD_GetNextResult.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LJUD Software/LabJackUD DLL Functions/LJUD_GetNextResult.vi"/>
 				<Item Name="Force Array To Size.vi" Type="VI" URL="/&lt;vilib&gt;/addons/LJUD Software/Utility VIs/Force Array To Size.vi"/>
+				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
+				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
+				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
@@ -432,10 +435,12 @@
 			<Item Name="lvStorage.dll" Type="Document" URL="lvStorage.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="ZtScopeM.dll" Type="Document" URL="../../../../../../Program Files (x86)/ZTEC Instruments/MClass/bin/ZtScopeM.dll"/>
 			<Item Name="labjackud.dll" Type="Document" URL="labjackud.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="ScaleInit.vi" Type="VI" URL="../SlowCtrl/SubVIs/ScaleInit.vi"/>
+			<Item Name="ScaleRead.vi" Type="VI" URL="../SlowCtrl/SubVIs/ScaleRead.vi"/>
+			<Item Name="ZtScopeM.dll" Type="Document" URL="../../../../../../../Program Files (x86)/ZTEC Instruments/MClass/bin/ZtScopeM.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
